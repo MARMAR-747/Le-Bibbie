@@ -1,5 +1,6 @@
 ---
 layout: default
+title:
 ---
 
 # 📘 Le Bibbie: appunti universitari in versione digitale
