@@ -1,3 +1,8 @@
+---
+layout: default
+title: Le Bibbie
+---
+
 # 📘 Le Bibbie: appunti universitari in versione digitale
 
 Benvenuto! In questa pagina trovi tutto il materiale da me prodotto durante la triennale in
