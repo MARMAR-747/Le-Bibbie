@@ -22,6 +22,8 @@ ingegneria informatica all'università degli studi di Palermo, raccolte per anno
 - [Elettrotecnica]
 - [Elettronica]
 
-📬 Per segnalazione di eventuali errori: [marcomarino.ci@gmail.com](mailto:marcomarino.ci@gmail.com)  
-📸 Social: [@marco.marino747](https://instagram.com/marco.marino747)  
+📬 Per segnalazione di eventuali errori: 
+[marcomarino.ci@gmail.com](mailto:marcomarino.ci@gmail.com)  
+📸 Social: 
+[@marco.marino747](https://instagram.com/marco.marino747)
 
