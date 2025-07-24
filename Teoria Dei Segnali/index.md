@@ -1,6 +1,6 @@
 ---
 title: Teoria Dei Segnali
-nav_order: 2
+nav_exclude: true
 ---
 
 # 📘 Teoria dei Segnali
