@@ -7,4 +7,4 @@ nav_order: 2
 
 Se vuoi supportare il progetto con una piccola donazione, puoi farlo qui:
 
-- 💳 [PayPal](paypal.me/MarcoMarino747)
+- 💳 [PayPal](https://paypal.me/MarcoMarino747)
