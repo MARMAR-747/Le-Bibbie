@@ -10,7 +10,7 @@ ingegneria informatica all'università degli studi di Palermo, raccolte per anno
 
 ## 📂 Materie
 
-- [Teoria dei segnali](TDS/)
+- [Teoria dei segnali](Teoria Dei Segnali/)
 - [Reti di calcolatori]
 - [Elettrotecnica]
 - [Elettronica]
