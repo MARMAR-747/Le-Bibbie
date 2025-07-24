@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Università degli studi di Palermo
+title: Home
 ---
 
 # 📘 Le Bibbie: appunti universitari in versione digitale
