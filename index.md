@@ -19,7 +19,7 @@ ingegneria informatica all'università degli studi di Palermo, raccolte per anno
 
 - [Teoria dei segnali](Teoria Dei Segnali/)
 - [Reti di calcolatori]
-- [Elettrotecnica]
+- [Elettrotecnica](Elettrotecnica/)
 - [Elettronica]
 
 📬 Per segnalazione di eventuali errori:  
