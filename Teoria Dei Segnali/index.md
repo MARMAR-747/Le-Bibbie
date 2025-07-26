@@ -8,19 +8,12 @@ nav_exclude: true
 
 Materiale disponibile:
 
-|Titolo|Tipologia|N. pagine|Status|Score|
-|------|---------|---------|------|-----|
-|[BLOCCO TEOREMI ENHANCED](../Teoria Dei Segnali/BLOCCO TEOREMI ENHANCED.pdf)|Teoria|69|✅|⭐⭐⭐⭐⭐ (1)|
-|BLOCCO UTILITIES ENHANCED|Teoria|73|🔄|☆☆☆☆☆ (0)|
-|BLOCCO TELECOM ENHANCED|Esercizi|104|🔄|☆☆☆☆☆ (0)|
-|ESERCIZIARIO DI TDS ENHANCED|Esercizi|119|🔄|☆☆☆☆☆ (0)|
-
 <table>
   <thead>
     <tr>
       <th style="width: 40%; text-align: center;">Titolo</th>
       <th style="width: 15%; text-align: center;">Tipologia</th>
-      <th style="width: 10%; text-align: center;">N. pagine</th>
+      <th style="width: 10%; text-align: center;">Pagine</th>
       <th style="width: 10%; text-align: center;">Status</th>
       <th style="width: 15%; text-align: center;">Score</th>
     </tr>
@@ -33,28 +26,28 @@ Materiale disponibile:
       <td style="text-align: center;">Teoria</td>
       <td style="text-align: center;">69</td>
       <td style="text-align: center;">✅</td>
-      <td style="text-align: center;">⭐⭐⭐⭐⭐(1)</td>
+      <td style="text-align: center;">⭐⭐⭐⭐⭐ (1)</td>
     </tr>
     <tr>
       <td>BLOCCO UTILITIES ENHANCED</td>
       <td style="text-align: center;">Teoria</td>
       <td style="text-align: center;">73</td>
       <td style="text-align: center;">🔄</td>
-      <td style="text-align: center;">☆☆☆☆☆(0)</td>
+      <td style="text-align: center;">☆☆☆☆☆ (0)</td>
     </tr>
     <tr>
       <td>BLOCCO TELECOM ENHANCED</td>
       <td style="text-align: center;">Esercizi</td>
       <td style="text-align: center;">104</td>
       <td style="text-align: center;">🔄</td>
-      <td style="text-align: center;">☆☆☆☆☆(0)</td>
+      <td style="text-align: center;">☆☆☆☆☆ (0)</td>
     </tr>
     <tr>
       <td>ESERCIZIARIO DI TDS ENHANCED</td>
       <td style="text-align: center;">Esercizi</td>
       <td style="text-align: center;">119</td>
       <td style="text-align: center;">🔄</td>
-      <td style="text-align: center;">☆☆☆☆☆(0)</td>
+      <td style="text-align: center;">☆☆☆☆☆ (0)</td>
     </tr>
   </tbody>
 </table>
