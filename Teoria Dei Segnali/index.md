@@ -11,11 +11,11 @@ Materiale disponibile:
 <table>
   <thead>
     <tr>
-      <th style="width: 40%; text-align: center;">Titolo</th>
+      <th style="width: 35%; text-align: center;">Titolo</th>
       <th style="width: 15%; text-align: center;">Tipologia</th>
       <th style="width: 10%; text-align: center;">Pagine</th>
       <th style="width: 10%; text-align: center;">Status</th>
-      <th style="width: 15%; text-align: center;">Score</th>
+      <th style="width: 20%; text-align: center;">Score</th>
     </tr>
   </thead>
   <tbody>
