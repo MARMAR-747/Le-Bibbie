@@ -9,7 +9,7 @@ nav_exclude: true
 Materiale disponibile:
 
 |Titolo|Tipologia|N.pagine|Status|Score|
-|[BLOCCO TEOREMI ENHANCED](../Teoria Dei Segnali/BLOCCO TEOREMI ENHANCED.pdf)|Teoria|69 pag.|Completed|☆☆☆☆☆ (0 voti)|
+|[BLOCCO TEOREMI ENHANCED](../Teoria Dei Segnali/BLOCCO TEOREMI ENHANCED.pdf)|Teoria|69 pag.|Completed|⭐⭐⭐⭐⭐ (1 voto)|
 |BLOCCO UTILITIES ENHANCED|Teoria|73 pag.|In progress|☆☆☆☆☆ (0 voti)|
 |BLOCCO TELECOM ENHANCED|Esercizi|104 pag.|In progress|☆☆☆☆☆ (0 voti)|
 |ESERCIZIARIO DI TDS ENHANCED|Esercizi|119 pag.|In progress|☆☆☆☆☆ (0 voti)|
