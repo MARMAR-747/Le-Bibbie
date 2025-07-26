@@ -33,28 +33,28 @@ Materiale disponibile:
       <td style="text-align: center;">Teoria</td>
       <td style="text-align: center;">69</td>
       <td style="text-align: center;">✅</td>
-      <td style="text-align: center;">⭐⭐⭐⭐⭐ (1)</td>
+      <td style="text-align: center;">⭐⭐⭐⭐⭐(1)</td>
     </tr>
     <tr>
-      <td style="text-align: center;">BLOCCO UTILITIES ENHANCED</td>
+      <td>BLOCCO UTILITIES ENHANCED</td>
       <td style="text-align: center;">Teoria</td>
       <td style="text-align: center;">73</td>
       <td style="text-align: center;">🔄</td>
-      <td style="text-align: center;">☆☆☆☆☆ (0)</td>
+      <td style="text-align: center;">☆☆☆☆☆(0)</td>
     </tr>
     <tr>
-      <td style="text-align: center;">BLOCCO TELECOM ENHANCED</td>
+      <td>BLOCCO TELECOM ENHANCED</td>
       <td style="text-align: center;">Esercizi</td>
       <td style="text-align: center;">104</td>
       <td style="text-align: center;">🔄</td>
-      <td style="text-align: center;">☆☆☆☆☆ (0)</td>
+      <td style="text-align: center;">☆☆☆☆☆(0)</td>
     </tr>
     <tr>
-      <td style="text-align: center;">ESERCIZIARIO DI TDS ENHANCED</td>
+      <td>ESERCIZIARIO DI TDS ENHANCED</td>
       <td style="text-align: center;">Esercizi</td>
       <td style="text-align: center;">119</td>
       <td style="text-align: center;">🔄</td>
-      <td style="text-align: center;">☆☆☆☆☆ (0)</td>
+      <td style="text-align: center;">☆☆☆☆☆(0)</td>
     </tr>
   </tbody>
 </table>
