@@ -17,27 +17,27 @@ Materiale disponibile:
 <table>
   <thead>
     <tr>
-      <th style="width: 25%;">Titolo</th>
-      <th style="width: 15%;">Tipologia</th>
+      <th style="width: 40%;">Titolo</th>
+      <th style="width: 10%;">Tipo</th>
       <th style="width: 10%;">N. pagine</th>
       <th style="width: 15%;">Status</th>
       <th style="width: 20%;">Score</th>
-      <th style="width: 15%;">N. voti</th>
+      <th style="width: 5%;">N. voti</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="../dispense/teoremi.pdf">BLOCCO TEOREMI ENHANCED</a></td>
       <td>Teoria</td>
-      <td>69 pag.</td>
+      <td>69</td>
       <td>Completed</td>
-      <td>★★★★★</td>
+      <td>⭐⭐⭐⭐⭐</td>
       <td>1</td>
     </tr>
     <tr>
       <td>BLOCCO UTILITIES ENHANCED</td>
       <td>Teoria</td>
-      <td>73 pag.</td>
+      <td>73</td>
       <td>In progress</td>
       <td>☆☆☆☆☆</td>
       <td>0</td>
@@ -45,7 +45,7 @@ Materiale disponibile:
     <tr>
       <td>BLOCCO TELECOM ENHANCED</td>
       <td>Esercizi</td>
-      <td>104 pag.</td>
+      <td>104</td>
       <td>In progress</td>
       <td>☆☆☆☆☆</td>
       <td>0</td>
@@ -53,7 +53,7 @@ Materiale disponibile:
     <tr>
       <td>ESERCIZIARIO DI TDS ENHANCED</td>
       <td>Esercizi</td>
-      <td>119 pag.</td>
+      <td>119</td>
       <td>In progress</td>
       <td>☆☆☆☆☆</td>
       <td>0</td>
