@@ -8,12 +8,11 @@ nav_exclude: true
 
 Materiale disponibile:
 
-|Titolo|Tipologia|N. pagine|Status|Score|N. voti|
-|-------------------------|-------|----|----|------------|----|
-|[BLOCCO TEOREMI ENHANCED](../Teoria Dei Segnali/BLOCCO TEOREMI ENHANCED.pdf)|Teoria|69|✅|⭐⭐⭐⭐⭐|1|
-|BLOCCO UTILITIES ENHANCED|Teoria|73|🔄|☆☆☆☆☆|0|
-|BLOCCO TELECOM ENHANCED|Esercizi|104|🔄|☆☆☆☆☆|0|
-|ESERCIZIARIO DI TDS ENHANCED|Esercizi|119|🔄|☆☆☆☆☆|0|
+|Titolo|Tipologia|N. pagine|Score|
+|[BLOCCO TEOREMI ENHANCED](../Teoria Dei Segnali/BLOCCO TEOREMI ENHANCED.pdf) ✅|Teoria|69|⭐⭐⭐⭐⭐ (1)|
+|BLOCCO UTILITIES ENHANCED 🔄|Teoria|73|☆☆☆☆☆ (0)|
+|BLOCCO TELECOM ENHANCED 🔄|Esercizi|104|☆☆☆☆☆ (0)|
+|ESERCIZIARIO DI TDS ENHANCED 🔄|Esercizi|119|☆☆☆☆☆ (0)|
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtodu3VPHwG825FNluwVazuPSc_mzX1lgQC1v22RndIOVhaQ/viewform" target="_blank" rel="noopener noreferrer">
   Valuta il materiale di Teoria Dei Segnali ⭐
