@@ -9,6 +9,7 @@ nav_exclude: true
 Materiale disponibile:
 
 |Titolo|Tipologia|N. pagine|Status|Score|
+|------|---------|---------|------|-----|
 |[BLOCCO TEOREMI ENHANCED](../Teoria Dei Segnali/BLOCCO TEOREMI ENHANCED.pdf)|Teoria|69|✅|⭐⭐⭐⭐⭐ (1)|
 |BLOCCO UTILITIES ENHANCED|Teoria|73|🔄|☆☆☆☆☆ (0)|
 |BLOCCO TELECOM ENHANCED|Esercizi|104|🔄|☆☆☆☆☆ (0)|
