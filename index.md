@@ -16,10 +16,10 @@ prodotto (centinaia di pagine) durante la triennale in ingegneria informatica al
 
 ## 📂 Materie
 
-- [Teoria dei segnali](Teoria Dei Segnali/)
-- [Reti di calcolatori]
-- [Elettrotecnica](Elettrotecnica/)
-- [Elettronica]
+- [Teoria dei segnali](Teoria Dei Segnali/) (9 CFU)
+- [Reti di calcolatori] (9 CFU)
+- [Elettrotecnica](Elettrotecnica/) (6 CFU)
+- [Elettronica](Elettronica/) (9 CFU)
 
 📬 Per segnalazione di eventuali errori:  
 &emsp;&nbsp;&nbsp;[marcomarino.ci@gmail.com](mailto:marcomarino.ci@gmail.com)
