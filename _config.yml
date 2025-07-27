@@ -5,3 +5,15 @@ description: Raccolta di appunti universitari curati nei minimi dettagli
 just_the_docs:
   custom_css:
     - assets/css/override.css
+nav:
+  - title: Home
+    url: /index/
+
+  - title: Novità
+    url: /novità/
+
+  - title: Chi sono
+    url: /presentazione/
+
+  - title: Donazioni
+    url: /donazioni/
