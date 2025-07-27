@@ -17,3 +17,5 @@ nav:
 
   - title: Donazioni
     url: /donazioni/
+
+  # rebuild trigger
