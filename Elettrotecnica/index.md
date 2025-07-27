@@ -8,10 +8,6 @@ nav_exclude: true
 
 Materiale disponibile:
 
-|Titolo|Tipologia|Numero pagine|Stato|Score|
-|LA BIBBIA DI ELETTROTECNICA|Teoria|91 pagine|Work in progress|☆☆☆☆☆ (0 voti)|
-|[LE RIVELAZIONI DI ELETTROTECNICA](../Elettrotecnica/LE RIVELAZIONI DI ELETTROTECNICA.pdf)|Esercizi|245 pagine|Completato|☆☆☆☆☆ (0 voti)|
-
 <table>
   <thead>
     <tr>
