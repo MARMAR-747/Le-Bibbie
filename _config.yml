@@ -7,7 +7,7 @@ just_the_docs:
     - assets/css/override.css
 nav:
   - title: Home
-    url: /index/
+    url: /
 
   - title: Novità
     url: /novità/
