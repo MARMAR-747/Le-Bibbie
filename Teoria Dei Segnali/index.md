@@ -34,7 +34,7 @@ Materiale disponibile:
       </td>
       <td style="text-align: center;">Teoria</td>
       <td style="text-align: center;">73</td>
-      <td style="text-align: center;">🔄</td>
+      <td style="text-align: center;">🔄(26/07/25)</td>
       <td style="text-align: center;">☆☆☆☆☆ (0)</td>
     </tr>
     <tr>
@@ -42,8 +42,8 @@ Materiale disponibile:
         <a href="../Teoria Dei Segnali/BLOCCO TELECOM ENHANCED.pdf" target="_blank">BLOCCO TELECOM ENHANCED</a>
       </td>
       <td style="text-align: center;">Esercizi</td>
-      <td style="text-align: center;">104</td>
-      <td style="text-align: center;">🔄</td>
+      <td style="text-align: center;">89</td>
+      <td style="text-align: center;">🔄(29/07/25)</td>
       <td style="text-align: center;">☆☆☆☆☆ (0)</td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ Materiale disponibile:
       </td>
       <td style="text-align: center;">Esercizi</td>
       <td style="text-align: center;">119</td>
-      <td style="text-align: center;">🔄</td>
+      <td style="text-align: center;">🔄(23/07/25)</td>
       <td style="text-align: center;">☆☆☆☆☆ (0)</td>
     </tr>
   </tbody>
