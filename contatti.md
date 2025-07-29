@@ -4,6 +4,9 @@ title: Contatti
 nav_order: 4
 ---
 
-# Contatti Social
+# Contatti
+📬 Per segnalazione di eventuali errori:  
+&emsp;&nbsp;&nbsp;[marcomarino.ci@gmail.com](mailto:marcomarino.ci@gmail.com)
 
-# Email
+📸 Social:  
+&emsp;&nbsp;&nbsp;[@marco.marino747](https://instagram.com/marco.marino747)
