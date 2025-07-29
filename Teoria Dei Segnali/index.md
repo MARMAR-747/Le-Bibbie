@@ -34,7 +34,7 @@ Materiale disponibile:
       </td>
       <td style="text-align: center;">Teoria</td>
       <td style="text-align: center;">73</td>
-      <td style="text-align: center;">🔄(26/07/25)</td>
+      <td>🔄(26/07/25)</td>
       <td style="text-align: center;">☆☆☆☆☆ (0)</td>
     </tr>
     <tr>
@@ -43,7 +43,7 @@ Materiale disponibile:
       </td>
       <td style="text-align: center;">Esercizi</td>
       <td style="text-align: center;">89</td>
-      <td style="text-align: center;">🔄(29/07/25)</td>
+      <td>🔄(29/07/25)</td>
       <td style="text-align: center;">☆☆☆☆☆ (0)</td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ Materiale disponibile:
       </td>
       <td style="text-align: center;">Esercizi</td>
       <td style="text-align: center;">119</td>
-      <td style="text-align: center;">🔄(23/07/25)</td>
+      <td>🔄(23/07/25)</td>
       <td style="text-align: center;">☆☆☆☆☆ (0)</td>
     </tr>
   </tbody>
