@@ -12,3 +12,23 @@
     max-width: 1000px;
   }
 }
+
+/* Cambia il colore dei link nella sidebar */
+.sidebar a {
+  color: #1a73e8; /* colore blu acceso, cambia a tuo piacimento */
+}
+
+/* Cambia il colore dei link nella sidebar quando attivi (selezionati) */
+.sidebar ul li.nav-list-item.active > a {
+  color: #0d47a1; /* blu scuro */
+  font-weight: bold;
+}
+
+/* Cambia il colore dei link nella pagina */
+a {
+  color: #1a73e8;
+}
+
+a:hover {
+  color: #0d47a1;
+}
