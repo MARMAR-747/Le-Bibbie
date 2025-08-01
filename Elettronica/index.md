@@ -21,7 +21,7 @@ Materiale disponibile:
   <tbody>
     <tr>
       <td>
-        <a href="../Elettrotecnica/LE RIVELAZIONI DI ELETTROTECNICA.pdf" target="_blank">I 35 COMANDAMENTI DI ELETTRONICA</a>
+        <a href="../Elettronica/I 35 COMANDAMENTI DI ELETTRONICA.pdf" target="_blank">I 35 COMANDAMENTI DI ELETTRONICA</a>
       </td>
       <td style="text-align: center;">Teoria</td>
       <td style="text-align: center;">59</td>
@@ -30,7 +30,7 @@ Materiale disponibile:
     </tr>
     <tr>
       <td>
-        <a href="../Elettrotecnica/LE RIVELAZIONI DI ELETTROTECNICA.pdf" target="_blank">HOW TO TRANSISTOR</a>
+        <a href="../Elettronica/HOW TO TRANSISTOR.pdf" target="_blank">HOW TO TRANSISTOR</a>
       </td>
       <td style="text-align: center;">Esercizi</td>
       <td style="text-align: center;">71</td>
@@ -40,7 +40,7 @@ Materiale disponibile:
   </tbody>
 </table>
 
-<a href="https://forms.gle/FdiNix35fyMHXay76" target="_blank" rel="noopener noreferrer">
+<a href="https://forms.gle/qpdXSWjaTQ6PaftP8" target="_blank" rel="noopener noreferrer">
   Valuta il materiale di Elettronica ⭐
 </a>
 
