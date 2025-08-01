@@ -1,19 +1,19 @@
 /* Cambia il colore dei link nella sidebar */
-.sidebar a {
-  color: #1a73e8; /* colore blu acceso, cambia a tuo piacimento */
+.nav-list a {
+  color: #1a73e8 !important;
 }
 
-/* Cambia il colore dei link nella sidebar quando attivi (selezionati) */
-.sidebar ul li.nav-list-item.active > a {
-  color: #0d47a1; /* blu scuro */
+/* Cambia il colore dei link attivi nella sidebar */
+.nav-list .nav-list-item > a.active {
+  color: #0d47a1 !important;
   font-weight: bold;
 }
 
-/* Cambia il colore dei link nella pagina */
-a {
-  color: #1a73e8;
+/* Cambia il colore di tutti i link nel contenuto principale */
+.main-content a {
+  color: #1a73e8 !important;
 }
 
-a:hover {
-  color: #0d47a1;
+.main-content a:hover {
+  color: #0d47a1 !important;
 }
