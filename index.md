@@ -18,7 +18,7 @@ prodotto (centinaia di pagine) durante la triennale in ingegneria informatica al
 
 ### ➀ Primo anno
 
-- [Algebra] (6 CFU)
+- [Algebra](Algebra/) (6 CFU)
 
 ### ➁ Secondo anno
 
