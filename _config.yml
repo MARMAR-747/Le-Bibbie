@@ -5,4 +5,4 @@ description: Raccolta di appunti universitari curati nei minimi dettagli
 
 just_the_docs:
   custom_css:
-    - assets/css/override.css
+    - "/assets/css/override.css"
