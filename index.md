@@ -31,9 +31,6 @@ prodotto (centinaia di pagine) durante la triennale in ingegneria informatica al
 - [Reti di calcolatori] (9 CFU)
 - [Elettronica](Elettronica/) (9 CFU)
 
-📬 Per segnalazione di eventuali errori:  
-&emsp;&nbsp;&nbsp;[marcomarino.ci@gmail.com](mailto:marcomarino.ci@gmail.com)
-
-📸 Social:  
-&emsp;&nbsp;&nbsp;[@marco.marino747](https://instagram.com/marco.marino747)
-
+---
+🔒 Tutto il materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
