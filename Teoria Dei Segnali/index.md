@@ -60,7 +60,10 @@ Materiale disponibile:
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtodu3VPHwG825FNluwVazuPSc_mzX1lgQC1v22RndIOVhaQ/viewform" target="_blank" rel="noopener noreferrer">
   Valuta il materiale di Teoria Dei Segnali ⭐
-</a>
+</a> <br><br>
+
+📬 Per segnalazione di eventuali errori:  
+&emsp;&nbsp;&nbsp;[marcomarino.ci@gmail.com](mailto:marcomarino.ci@gmail.com)
 
 ---
 🔒 Questo materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
