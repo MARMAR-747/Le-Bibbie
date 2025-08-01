@@ -3,8 +3,7 @@ title: Algebra
 nav_exclude: true
 ---
 
-## 📘 Algebra
-
+# 📘 Algebra
 
 Materiale disponibile:
 
