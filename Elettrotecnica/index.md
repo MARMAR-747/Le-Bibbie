@@ -40,7 +40,10 @@ Materiale disponibile:
 
 <a href="https://forms.gle/FdiNix35fyMHXay76" target="_blank" rel="noopener noreferrer">
   Valuta il materiale di Elettrotecnica ⭐
-</a>
+</a> <br><br>
+
+📬 Per segnalazione di eventuali errori:  
+&emsp;&nbsp;&nbsp;[marcomarino.ci@gmail.com](mailto:marcomarino.ci@gmail.com)
 
 ---
 🔒 Questo materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
