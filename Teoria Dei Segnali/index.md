@@ -62,3 +62,6 @@ Materiale disponibile:
   Valuta il materiale di Teoria Dei Segnali ⭐
 </a>
 
+---
+🔒 Questo materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
