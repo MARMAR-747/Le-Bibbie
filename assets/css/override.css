@@ -1,18 +1,3 @@
-/* Imposta una larghezza massima più ampia su desktop, ma fluida su mobile */
-.main-content {
-  max-width: 90vw;        /* 90% della larghezza della finestra */
-  width: 100%;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-/* Per schermi grandi (>1200px), limita la larghezza */
-@media (min-width: 1200px) {
-  .main-content {
-    max-width: 1000px;
-  }
-}
-
 /* Cambia il colore dei link nella sidebar */
 .sidebar a {
   color: #1a73e8; /* colore blu acceso, cambia a tuo piacimento */
