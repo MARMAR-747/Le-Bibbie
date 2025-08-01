@@ -5,14 +5,27 @@ nav_order: 1
 ---
 
 # 📘 Appunti universitari in versione digitale
-Quella di ingegneria informatica è universalmente riconosciuta come una delle più ardue facoltà che si possa scegliere di frequentare. 
-Ci si scontra giornalmente con problemi di una complessità non trascurabile (uno tra tanti, l'esame di Teoria dei segnali). Cosa 
-succede, dunque, se non si ha del buon materiale a disposizione per studiare? Ho iniziato a scrivere appunti per me stesso, come esercizio per la memoria e allenamento
-nella scrittura al PC (specialmente su word), ma con il tempo ho capito che ore e ore di lavoro non potevano essere rese vane: avevo un nuovo scopo, ovvero aiutare chi, come me,
-aveva difficoltà nella lettura (e spesso nell'interpretazione) di dispense fornite dai docenti. Chiariamoci, non reputo le mie dispense "migliori" rispetto a quelle
-dei docenti, ma sono convinto che spesso, pur di attenersi alle più auliche formalità, si perda un po' il contatto concreto con la platea di studenti. Il nome "Le bibbie"? Concorderete
-con me sul fatto che, a volte, anche le più insospettabili materie (ad esempio quelle da 6 CFU) possono celare un programma sconfinato. In questa pagina troverete tutto il materiale da me 
-prodotto (centinaia di pagine) durante la triennale in ingegneria informatica all'università degli studi di Palermo, raccolto per materia.
+Quella di **Ingegneria Informatica** è universalmente riconosciuta come una delle **facoltà più complesse** da affrontare.  
+Ogni giorno ci si confronta con problemi di **notevole difficoltà** — uno tra tutti: l’esame di **Teoria dei Segnali**.
+
+Ma cosa succede se non si ha a disposizione del **buon materiale per studiare**?
+
+Ho iniziato a scrivere appunti **per me stesso**, come esercizio di memoria e per allenarmi a scrivere al PC (soprattutto su Word).  
+Con il tempo, però, mi sono reso conto che **ore e ore di lavoro** non potevano essere lasciate in un cassetto:  
+avevo trovato un nuovo scopo.
+
+👉 **Aiutare chi, come me, trovava difficoltà a orientarsi tra le dispense dei docenti.**
+
+Chiariamoci: non considero i miei appunti "migliori" rispetto a quelli ufficiali.  
+Credo però che, **nell’eccessivo formalismo accademico**, si perda talvolta il contatto concreto con gli studenti.
+
+### 📖 Perché “Le Bibbie”?
+
+Perché anche le materie da **6 CFU**, all’apparenza semplici, possono nascondere **programmi vastissimi**.  
+Il nome è ironico, ma anche simbolico: questi appunti sono diventati per me — e spero anche per voi — **una guida completa e affidabile**.
+
+Di seguito troverai infatti **tutto il materiale** prodotto da me durante la **triennale in Ingegneria Informatica**  
+all’**Università degli Studi di Palermo**, raccolto **per anno e per materia**.
 
 ## 📂 Materie
 
