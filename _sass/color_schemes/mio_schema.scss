@@ -1,5 +1,15 @@
----
----
-// Cambio il colore dei link
-$link-color: #1a73e8;
-$link-color-hover: #0d47a1;
+// Cambia il colore dei link globali
+a {
+  color: #1a73e8; // Sostituisci con il colore che preferisci
+}
+
+// Cambia il colore dei link nel menu laterale di Just the Docs, se vuoi personalizzare solo quelli
+.nav-list .nav-list-item .nav-list-link {
+  color: #e91e63; // Esempio: rosa
+}
+
+// Cambia colore al passaggio del mouse
+a:hover, 
+.nav-list .nav-list-item .nav-list-link:hover {
+  color: #ff9800; // Esempio: arancione
+}
