@@ -1,9 +1,14 @@
+# Tema remoto
 remote_theme: just-the-docs/just-the-docs
-color_scheme: light
+
+# Informazioni generali
 author: Marco Marino
 description: Raccolta di appunti universitari curati nei minimi dettagli
 
+# Color scheme personalizzato (creato da te)
+color_scheme: mio_schema
+
+# CSS personalizzato (opzionale, ma utile per piccoli aggiustamenti)
 just_the_docs:
   custom_css:
-    - "/assets/css/override.css"
-color_scheme: mio_schema
+    - assets/css/override.css
