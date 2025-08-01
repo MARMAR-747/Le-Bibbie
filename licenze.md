@@ -28,5 +28,5 @@ Per segnalazioni o correzioni:
 📧 [marcomarino.ci@gmail.com](mailto:marcomarino.ci@gmail.com)
 
 ---
-🔒 Questo materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+🔒 Tutto il materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
