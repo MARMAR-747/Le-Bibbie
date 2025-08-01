@@ -16,9 +16,19 @@ prodotto (centinaia di pagine) durante la triennale in ingegneria informatica al
 
 ## 📂 Materie
 
+### ➀ Primo anno
+
+- [Algebra] (6 CFU)
+
+### ➁ Secondo anno
+
 - [Teoria dei segnali](Teoria Dei Segnali/) (9 CFU)
-- [Reti di calcolatori] (9 CFU)
 - [Elettrotecnica](Elettrotecnica/) (6 CFU)
+- [Metodi matematici e numerici] (9 CFU)
+
+### ➂ Terzo anno
+
+- [Reti di calcolatori] (9 CFU)
 - [Elettronica](Elettronica/) (9 CFU)
 
 📬 Per segnalazione di eventuali errori:  
