@@ -11,7 +11,7 @@ Materiale disponibile:
 <table>
   <thead>
     <tr>
-      <th style="width: 59%; text-align: center;">Titolo</th>
+      <th style="width: 69%; text-align: center;">Titolo</th>
       <th style="width: 2%; text-align: center;">Tipologia</th>
       <th style="width: 2%; text-align: center;">Pagine</th>
       <th style="width: 2%; text-align: center;">Status</th>
