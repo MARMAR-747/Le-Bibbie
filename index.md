@@ -10,7 +10,7 @@ Ogni giorno ci si confronta con problemi di **notevole difficoltà** — uno tra
 
 Ma cosa succede se non si ha a disposizione del **buon materiale per studiare**?
 
-Ho iniziato a scrivere appunti **per me stesso**, come esercizio di memoria e per allenarmi a scrivere al PC (soprattutto su Word).  
+Ho iniziato a scrivere appunti **per me stesso**, come esercizio di memoria e per allenarmi a scrivere al PC (soprattutto su Word).
 Con il tempo, però, mi sono reso conto che **ore e ore di lavoro** non potevano essere lasciate in un cassetto: avevo trovato un nuovo scopo, ovvero
 **aiutare chi, come me, trovava difficoltà a orientarsi tra le dispense dei docenti**.
 
