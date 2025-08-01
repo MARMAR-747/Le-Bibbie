@@ -3,8 +3,7 @@ title: Elettronica
 nav_exclude: true
 ---
 
-## 📘 Elettronica
-
+# 📘 Elettronica
 
 Materiale disponibile:
 
