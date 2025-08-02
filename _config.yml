@@ -8,7 +8,7 @@ description: Raccolta di appunti universitari curati nei minimi dettagli
 # Color scheme personalizzato (creato da te)
 color_scheme: mio_schema
 
-# CSS personalizzato (opzionale, ma utile per piccoli aggiustamenti)
+# CSS personalizzato (opzionale, ma utile per aggiustamenti)
 just_the_docs:
   custom_css:
     - assets/css/override.css
