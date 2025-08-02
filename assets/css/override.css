@@ -4,6 +4,7 @@ body, .site-nav, .site-header, .site-footer, .main-content{
   font-family: 'Mozilla Text', sans-serif !important;
 }
 
-.search-heading {
-  display: none;
+/* Nasconde il titolo nella barra di ricerca */
+.main-content, .search, .search-heading {
+  display: none !important;
 }
