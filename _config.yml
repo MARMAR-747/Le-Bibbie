@@ -12,4 +12,3 @@ color_scheme: mio_schema
 just_the_docs:
   custom_css:
     - assets/css/override.css
-  custom_head: _includes/head_custom.html
