@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-## 📘 Appunti universitari in versione digitale
+## 📘 Le Bibbie: appunti universitari in versione digitale
 ---
 Quella di **Ingegneria Informatica** è universalmente riconosciuta come una delle **facoltà più complesse** da affrontare.
 Ogni giorno ci si confronta con problemi di **notevole difficoltà** — uno tra tutti: l’esame di **Teoria dei Segnali**.
