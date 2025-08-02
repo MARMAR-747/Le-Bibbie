@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 ## 📘 Appunti universitari in versione digitale
+---
 Quella di **Ingegneria Informatica** è universalmente riconosciuta come una delle **facoltà più complesse** da affrontare.
 Ogni giorno ci si confronta con problemi di **notevole difficoltà** — uno tra tutti: l’esame di **Teoria dei Segnali**.
 
@@ -16,17 +17,17 @@ Con il tempo, però, mi sono reso conto che **ore e ore di lavoro** non potevano
 
 **Chiariamoci**: non considero i miei appunti "migliori" rispetto a quelli ufficiali.
 Credo però che, nell’eccessivo formalismo accademico, si perda talvolta il contatto concreto con gli studenti.
-
+---
 ### 📖 Perché “Le Bibbie”?
-
+---
 Perché anche le materie da **6 CFU**, all’apparenza innocue, possono nascondere **programmi vastissimi**. Il nome è ironico, ma anche 
 simbolico: questi appunti sono diventati per me — e spero anche per voi — **una guida completa e affidabile**.
 
 Di seguito troverete infatti **tutto il materiale** da me prodotto durante la **triennale in Ingegneria Informatica** all’**Università degli Studi di Palermo**, 
 raccolto **per anno e per materia**.
-
+---
 ## 📂 Materie
-
+---
 ### ➀ Primo anno
 
 - [Algebra](Algebra/) (6 CFU)
