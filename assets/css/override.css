@@ -5,6 +5,6 @@ body, .site-nav, .site-header, .site-footer, .main-content{
 }
 
 /* Nasconde il titolo nella barra di ricerca */
-.search, .search-heading {
+.search {
   display: none !important;
 }
