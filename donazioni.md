@@ -5,7 +5,7 @@ nav_order: 6
 ---
 
 # ☕ Donazioni
-
+---
 Se vuoi supportare il progetto con una piccola donazione, puoi farlo qui:
 
 <a href="https://paypal.me/MarcoMarino747" target="_blank">
