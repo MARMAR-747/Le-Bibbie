@@ -4,7 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-## 📘 Le Bibbie: appunti universitari in versione digitale
 <h2>📘 <span id="typed"></span></h2>
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
@@ -12,9 +11,9 @@ nav_order: 1
   document.addEventListener('DOMContentLoaded', function () {
     new Typed('#typed', {
       strings: [
-        'Appunti universitari digitali',
-        'Materiale curato nei minimi dettagli',
-        'Per ingegneria informatica 📚'
+        'Le Bibbie',
+        'Appunti universitari in versione digitale',
+        'Ingegneria informatica, uniPa 📚'
       ],
       typeSpeed: 50,
       backSpeed: 25,
