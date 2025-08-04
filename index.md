@@ -5,6 +5,23 @@ nav_order: 1
 ---
 
 ## 📘 Le Bibbie: appunti universitari in versione digitale
+<h2>📘 <span id="typed"></span></h2>
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Typed('#typed', {
+      strings: [
+        'Appunti universitari digitali',
+        'Materiale curato nei minimi dettagli',
+        'Per ingegneria informatica 📚'
+      ],
+      typeSpeed: 50,
+      backSpeed: 25,
+      loop: true
+    });
+  });
+</script>
 ---
 Quella di **Ingegneria Informatica** è universalmente riconosciuta come una delle **facoltà più complesse** da affrontare.
 Ogni giorno ci si confronta con problemi di **notevole difficoltà** — uno tra tutti: l’esame di **Teoria dei Segnali**.
