@@ -3,10 +3,14 @@ title: Teoria Dei Segnali
 nav_exclude: true
 ---
 
-# 📘 Teoria dei Segnali
+# 📘 Teoria dei Segnali  
+---
+## Descrizione:
+Teoria Dei Segnali è per antonomasia la materia scoglio di Ingegneria Informatica. Il vastissimo e complesso programma non rispecchia in alcun modo i soli
+9 CFU assegnati a questa materia, e di sicuro il professore Garbo non è conosciuto per la sua magnanimità. Per lo studio teorico è consigliata una lettura delle
+dispense del professore, ma tutti gli argomenti critici e richiesti all'esame orale sono contenuti nel file "BLOCCO TEOREMI ENHANCED" (37 teoremi con dimostrazione). È inoltre presente un file riassuntivo delle principali formule e/o concetti teorici utili ai fini degli esercizi, ovvero il "BLOCCO UTILITIES ENHANCED". Per quanto riguarda gli esercizi, oltre a consigliarvi di seguire le esercitazioni del professore Mangione, con i file "BLOCCO TELECOM ENHANCED" e "ESERCIZIARIO DI TDS ENHANCED" avrete un'ottima panoramica di ciò che può essere richiesto rispettivamente allo scritto e alla lavagna. Si precisa che il blocco Telecom contiene anche alcuni esercizi che, a quanto pare, sono stati eliminati dal pool di esercizi che possono capitare, dunque potrebbe essere aggiornato nel tempo per essere sempre il più accurato possibile.
 
-
-Materiale disponibile:
+## Materiale disponibile:
 
 <table>
   <thead>
