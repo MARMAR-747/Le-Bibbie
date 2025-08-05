@@ -58,8 +58,12 @@ raccolto **per anno e per materia**.
 - [Reti di calcolatori] (9 CFU)
 - [Elettronica](Elettronica/) (9 CFU)
 
-## 📊 Statistiche del sito
 ---
+🔒 Tutto il materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
+
+## 📊 Statistiche del sito
+
 <div class="counter-container">
   <div class="counter-box">
     <span id="pdf-count">0</span>
@@ -110,9 +114,4 @@ window.addEventListener('DOMContentLoaded', () => {
     .then(res => res.json())
     .then(json => { el.innerText = json.total; });
 });
-</script
-
-<script src="https://cdn.counter.dev/script.js" data-id="034d69c8-e18d-474d-a527-c0416749534b" data-utcoffset="2"></script>
----
-🔒 Tutto il materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
-🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
+</script>
