@@ -10,13 +10,36 @@ Teoria dei Segnali è, per antonomasia, la materia scoglio di Ingegneria Informa
 
 ## Overview:
 
-|          |            |
-|----------|------------|
-|**Descrizione**|Teoria dei Segnali è, per antonomasia, la materia scoglio di Ingegneria Informatica a uniPa. Il programma è estremamente vasto e complesso, nonostante i soli 9 CFU assegnati. A rendere il tutto più impegnativo, il professore Garbo non è noto per la sua magnanimità in sede d’esame. Per lo studio teorico, è consigliata la lettura delle dispense del professore, ma tutti gli argomenti critici richiesti all’orale sono raccolti in un unico file fondamentale: il **BLOCCO TEOREMI ENHANCED**, che contiene 37 teoremi con relative dimostrazioni. È disponibile anche un file riassuntivo con le principali formule e concetti teorici utili per la risoluzione degli esercizi, ovvero il **BLOCCO UTILITIES ENHANCED**. Per quanto riguarda gli esercizi, si consiglia vivamente di seguire le esercitazioni del professor Mangione. Inoltre, i file **BLOCCO TELECOM ENHANCED** e **ESERCIZIARIO DI TDS ENHANCED** offrono un’ottima panoramica di ciò che può essere richiesto rispettivamente allo scritto e alla lavagna. Attenzione: il Blocco Telecom contiene anche alcuni esercizi che, secondo segnalazioni recenti, potrebbero essere stati rimossi dal pool ufficiale. Pertanto, è possibile che venga aggiornato nel tempo per riflettere al meglio le reali richieste d’esame.|
-|**Modalità d'esame**| Scritto costituito da un esercizio a scelta casuale da un pool di esercizi predefinito (Non necessario per accedere all'orale, ma limita il voto massimo a 24 qualora dovesse andare male). Orale costituito solitamente da due domande (Teorema + Teorema o Teorema + Esercizio)|
-|**Difficoltà**| 🔺 Alta |
-|**Domande frequenti**| *Cos'è il Teorema di Nyquist…*|
-|**Tips**| Inizia dallo schemino template, poi leggi le dispense reali|
+<table>
+  <tr>
+    <td><strong>Descrizione</strong></td>
+    <td>
+      Teoria dei Segnali è, per antonomasia, la materia scoglio di Ingegneria Informatica a uniPa. Il programma è estremamente vasto e complesso, nonostante i soli 9 CFU assegnati. A rendere il tutto più impegnativo, il professore Garbo non è noto per la sua magnanimità in sede d’esame.
+      <br><br>
+      Per lo studio teorico, è consigliata la lettura delle dispense del professore, ma tutti gli argomenti critici richiesti all’orale sono raccolti in un unico file fondamentale: il <strong>BLOCCO TEOREMI ENHANCED</strong>, che contiene 37 teoremi con relative dimostrazioni. È disponibile anche un file riassuntivo con le principali formule e concetti teorici utili per la risoluzione degli esercizi, ovvero il <strong>BLOCCO UTILITIES ENHANCED</strong>.
+      <br><br>
+      Per quanto riguarda gli esercizi, si consiglia vivamente di seguire le esercitazioni del professor Mangione. Inoltre, i file <strong>BLOCCO TELECOM ENHANCED</strong> e <strong>ESERCIZIARIO DI TDS ENHANCED</strong> offrono un’ottima panoramica di ciò che può essere richiesto rispettivamente allo scritto e alla lavagna. Attenzione: il Blocco Telecom contiene anche alcuni esercizi che, secondo segnalazioni recenti, potrebbero essere stati rimossi dal pool ufficiale. Pertanto, è possibile che venga aggiornato nel tempo per riflettere al meglio le reali richieste d’esame.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Modalità d'esame</strong></td>
+    <td>
+      Scritto costituito da un esercizio a scelta casuale da un pool di esercizi predefinito (Non necessario per accedere all'orale, ma limita il voto massimo a 24 qualora dovesse andare male). Orale costituito solitamente da due domande (Teorema + Teorema o Teorema + Esercizio).
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Difficoltà</strong></td>
+    <td>🔺 Alta</td>
+  </tr>
+  <tr>
+    <td><strong>Domande frequenti</strong></td>
+    <td><em>Cos'è il Teorema di Nyquist…</em></td>
+  </tr>
+  <tr>
+    <td><strong>Tips</strong></td>
+    <td>Inizia dallo schemino template, poi leggi le dispense reali</td>
+  </tr>
+</table>
 
 ## Materiale disponibile:
 
