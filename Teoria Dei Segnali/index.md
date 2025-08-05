@@ -8,6 +8,16 @@ nav_exclude: true
 ## Descrizione:
 Teoria dei Segnali è, per antonomasia, la materia scoglio di Ingegneria Informatica a uniPa. Il programma è estremamente vasto e complesso, nonostante i soli 9 CFU assegnati. A rendere il tutto più impegnativo, il professore Garbo non è noto per la sua magnanimità in sede d’esame. Per lo studio teorico, è consigliata la lettura delle dispense del professore, ma tutti gli argomenti critici richiesti all’orale sono raccolti in un unico file fondamentale: il “BLOCCO TEOREMI ENHANCED”, che contiene 37 teoremi con relative dimostrazioni. È disponibile anche un file riassuntivo con le principali formule e concetti teorici utili per la risoluzione degli esercizi, ovvero il “BLOCCO UTILITIES ENHANCED”. Per quanto riguarda gli esercizi, si consiglia vivamente di seguire le esercitazioni del professor Mangione. Inoltre, i file “BLOCCO TELECOM ENHANCED” e “ESERCIZIARIO DI TDS ENHANCED” offrono un’ottima panoramica di ciò che può essere richiesto rispettivamente allo scritto e alla lavagna. Attenzione: il Blocco Telecom contiene anche alcuni esercizi che, secondo segnalazioni recenti, potrebbero essere stati rimossi dal pool ufficiale. Pertanto, è possibile che venga aggiornato nel tempo per riflettere al meglio le reali richieste d’esame.
 
+## Overview:
+
+| Tema               | Contenuto                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| Modalità esame     | Scritto, con rollover di Q&A alla lavagna oppure MatLab                  |
+| Difficoltà         | 🔺 Alta (richiede studio teorico e pratico)                             |
+| Cosa studiare      | Trasformate, campionamento, FFT, modulazioni                            |
+| Domande frequenti  | *Cos'è il Teorema di Nyquist…*                                           |
+| Consiglio           | Inizia dallo schemino template, poi leggi le dispense reali              |
+
 ## Materiale disponibile:
 
 <table>
