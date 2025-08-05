@@ -66,7 +66,7 @@ nav_exclude: true
 
 ## Materiale disponibile:
 
-<img src="Teoria Dei Segnali/assets/images/Copertina BTE.png" alt="Anteprima Blocco Teoremi Enhanced" width="200">
+<img src="assets/images/Copertina_BTE.png" alt="Anteprima Blocco Teoremi Enhanced" width="200">
 
 <table>
   <thead>
