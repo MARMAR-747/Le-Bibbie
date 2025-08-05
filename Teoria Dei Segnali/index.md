@@ -30,11 +30,11 @@ nav_exclude: true
   </tr>
   <tr>
     <td><strong>Domande frequenti</strong></td>
-    <td><em>Cos'è il Teorema di Nyquist…</em></td>
+    <td><em>Dio è bestia?</em></td>
   </tr>
   <tr>
     <td><strong>Tips</strong></td>
-    <td>Inizia dallo schemino template, poi leggi le dispense reali</td>
+    <td>Leggere le dispense del professore Garbo e consultare parallelamente il <strong>BLOCCO TEOREMI ENHANCED</strong> e il <strong>BLOCCO UTILITIES ENHANCED</strong>. Si consiglia di svolgere le esercitazioni del professore Mangione parallelamente allo studio teorico, per fissare bene i concetti studiati.</td>
   </tr>
 </table>
 
