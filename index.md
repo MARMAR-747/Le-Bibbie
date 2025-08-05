@@ -117,10 +117,17 @@ raccolto **per anno e per materia**.
 document.addEventListener('DOMContentLoaded', () => {
   const counters = document.querySelectorAll('.counter');
 
+  if (counters.length === 0) {
+    console.warn("Nessun contatore trovato!");
+    return;
+  }
+
   const animateCount = (el) => {
-    const target = parseInt(el.dataset.target);
+    const target = parseInt(el.getAttribute('data-target'));
+    if (isNaN(target)) return;
+
     let count = 0;
-    const step = Math.ceil(target / 40);
+    const step = Math.max(1, Math.ceil(target / 40));
     const update = () => {
       count += step;
       if (count >= target) {
@@ -133,14 +140,14 @@ document.addEventListener('DOMContentLoaded', () => {
     requestAnimationFrame(update);
   };
 
-  const observer = new IntersectionObserver((entries, observer) => {
+  const observer = new IntersectionObserver((entries, obs) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
         animateCount(entry.target);
-        observer.unobserve(entry.target); // Conta solo una volta
+        obs.unobserve(entry.target);
       }
     });
-  }, { threshold: 0.6 });
+  }, { threshold: 0.5 });
 
   counters.forEach(counter => {
     observer.observe(counter);
