@@ -11,9 +11,9 @@ nav_order: 1
   document.addEventListener('DOMContentLoaded', function () {
     new Typed('#typed', {
       strings: [
-        'Le Bibbie',
+        'Le Bibbie di Ingegneria Informatica',
         'Appunti universitari in versione digitale',
-        'Ingegneria informatica, uniPa 📚'
+        'Università degli Studi di Palermo'
       ],
       typeSpeed: 50,
       backSpeed: 25,
