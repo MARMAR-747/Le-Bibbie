@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 # 📜 Licenze e uso dei contenuti
-
+---
 Tutti i materiali presenti in questo sito (dispense, eserciziari, appunti e risorse varie) sono stati realizzati da me, **Marco Marino**, sulla base del mio percorso universitario in Ingegneria Informatica presso l’Università degli Studi di Palermo.
 
 ## ✅ Cosa puoi fare
