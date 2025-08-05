@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Teoria Dei Segnali
 nav_exclude: true
 ---
@@ -6,21 +7,15 @@ nav_exclude: true
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const btn = document.getElementById('theme-toggle');
-    const savedTheme = localStorage.getItem('theme');
-
-    // ✅ Applica il tema salvato all'avvio
-    if (savedTheme) {
-      jtd.setTheme(savedTheme);
-      if (btn) {
-        btn.textContent = savedTheme === 'dark' ? '☀️' : '🌙';
-      }
+    const saved = localStorage.getItem('theme');
+    if (saved) {
+      jtd.setTheme(saved);
+      if (btn) btn.textContent = saved === 'dark' ? '☀️' : '🌙';
     }
-
-    // 🔁 Cambia il tema al click e salvalo
     if (btn) {
       btn.addEventListener('click', () => {
-        const current = jtd.getTheme(); // tema attuale visibile
-        const next = current === 'dark' ? 'light' : 'dark';
+        const curr = jtd.getTheme();
+        const next = curr === 'dark' ? 'light' : 'dark';
         jtd.setTheme(next);
         localStorage.setItem('theme', next);
         btn.textContent = next === 'dark' ? '☀️' : '🌙';
