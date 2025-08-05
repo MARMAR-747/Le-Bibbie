@@ -26,6 +26,9 @@ nav_exclude: true
 
 # 📘 Teoria dei Segnali  
 ---
+
+<img src="assets/images/Copertina_BTE.png" alt="Anteprima Blocco Teoremi Enhanced" width="200">
+
 ## Overview:
 
 <table>
@@ -65,8 +68,6 @@ nav_exclude: true
 </table>
 
 ## Materiale disponibile:
-
-<img src="assets/images/Copertina_BTE.png" alt="Anteprima Blocco Teoremi Enhanced" width="200">
 
 <table>
   <thead>
