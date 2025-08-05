@@ -27,23 +27,26 @@ nav_order: 1
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   const counter = document.getElementById('pdf-count');
+  if (!counter) return;
+  
   const target = parseInt(counter.dataset.target);
-  let count = 0;
+  if (isNaN(target)) return;
 
-  const step = 1; // Incrementa di 1
-  const delay = 150; // ms tra ogni incremento
+  let count = 0;
+  const step = 1;
+  const delay = 150;
 
   const update = () => {
-    count += step;
     if (count >= target) {
       counter.textContent = target;
-    } else {
-      counter.textContent = count;
-      setTimeout(update, delay);
+      return;
     }
+    count += step;
+    counter.textContent = count;
+    setTimeout(update, delay);
   };
 
-  update(); // Avvia il conteggio subito
+  update();
 });
 </script>
 
