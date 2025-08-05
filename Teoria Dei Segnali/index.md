@@ -27,7 +27,7 @@ nav_exclude: true
 # 📘 Teoria dei Segnali  
 ---
 
-<img src="assets/images/Copertina_BTE.png" alt="Anteprima Blocco Teoremi Enhanced" width="200">
+<img src="/assets/images/CopertinaBTE.png" alt="Anteprima Blocco Teoremi Enhanced" width="200">
 
 ## Overview:
 
