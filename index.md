@@ -80,22 +80,39 @@ raccolto **per anno e per materia**.
 
 <div class="counter-container">
   <div class="counter-box">
-    <span id="pdf-count">7</span>
+    <span id="pdf-count" class="counter">7</span>
     <p>📚 PDF disponibili</p>
   </div>
 </div>
 
 <style>
 .counter-container {
-  display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 2rem;
 }
 .counter-box {
-  text-align: center; background: #f8f9fa; padding: 20px 30px; border-radius: 15px;
+  text-align: center;
+  background-color: var(--card-background-color, var(--body-background-color));
+  padding: 20px 30px;
+  border-radius: 15px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: background-color 0.3s ease;
 }
-.counter-box p { margin: 0.5rem 0 0; }
-.counter { font-size: 2.5rem; font-weight: bold; color: #1a73e8; display: block; }
+.counter-box p {
+  margin: 0.5rem 0 0;
+  color: var(--body-text-color);
+}
+.counter {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: var(--link-color);
+  display: block;
+}
 </style>
+
 ---
 🔒 Tutto il materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
