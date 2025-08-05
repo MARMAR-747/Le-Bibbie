@@ -60,7 +60,7 @@ raccolto **per anno e per materia**.
 
 <div class="counter-container">
   <div class="counter-box">
-    <span id="pdf-count">0</span>
+    <span id="pdf-count">7</span>
     <p>📚 PDF disponibili</p>
   </div>
 </div>
