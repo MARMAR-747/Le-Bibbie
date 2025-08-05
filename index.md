@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (isNaN(target)) return;
 
     let count = 0;
-    const step = 1; // Conta di 1 alla volta
+    const step = Math.max(1, Math.ceil(target / 40)); // Conta di 1 alla volta
     const update = () => {
       count += step;
       if (count >= target) {
