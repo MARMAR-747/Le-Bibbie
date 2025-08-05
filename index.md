@@ -115,7 +115,7 @@ raccolto **per anno e per materia**.
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  const counter = document.getElementById('pdf-count');
+  const counter = 0;
   const target = parseInt(counter.dataset.target);
   let count = 0;
 
