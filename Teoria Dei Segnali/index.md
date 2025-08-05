@@ -21,16 +21,21 @@ nav_exclude: true
   <tr>
     <td><strong>Modalità d'esame</strong></td>
     <td>
-      Scritto costituito da un esercizio a scelta casuale da un pool di esercizi predefinito (Non necessario per accedere all'orale, ma limita il voto massimo a 24 qualora dovesse andare male). Orale costituito solitamente da due domande (Teorema + Teorema o Teorema + Esercizio).
+      Lo scritto è costituito da un esercizio scelto casualmente da una pila di fogli presente alla cattedra (non è possibile scegliere il primo foglio in alto). Il superamento dello scritto non è necessario per accedere all'orale, ma limita il voto massimo a 24 qualora dovesse andare male. 
+      <br><br>
+      L'orale è costituito solitamente da due domande (Teorema + Teorema o Teorema + Esercizio), tuttavia potrebbe essere richiesto anche un solo teorema o un solo esercizio qualora lo scritto fosse andato bene e/o Garbo fosse di buon umore.
     </td>
   </tr>
   <tr>
     <td><strong>Difficoltà</strong></td>
-    <td>🔺 Alta</td>
+    <td>🔺 Alta 💀💀💀💀💀</td>
   </tr>
   <tr>
     <td><strong>Domande frequenti</strong></td>
-    <td><em>Dio è bestia?</em></td>
+    <td><strong>Teoremi:</strong>
+    <br><br>
+      <strong>Esercizi:</strong>
+    </td>
   </tr>
   <tr>
     <td><strong>Tips</strong></td>
