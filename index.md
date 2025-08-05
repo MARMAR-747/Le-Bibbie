@@ -66,11 +66,11 @@ raccolto **per anno e per materia**.
 
 <div class="counter-container">
   <div class="counter-box">
-    <span id="pdf-count">0</span>
+    <span id="pdf-count">total</span>
     <p>📚 PDF disponibili</p>
   </div>
   <div class="counter-box">
-    <span id="visitor-count" data-id="TUO-CounterID">0</span>
+    <span id="visitor-count" data-id="034d69c8-e18d-474d-a527-c0416749534b">0</span>
     <p>👁️ Visitatori unici</p>
   </div>
 </div>
