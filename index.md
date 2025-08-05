@@ -24,36 +24,6 @@ nav_order: 1
   });
 </script>
 
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const observer = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const counter = entry.target;
-        const target = +counter.dataset.target;
-        let current = 0;
-        const step = Math.ceil(target / 40); // Velocità della conta
-        const interval = setInterval(() => {
-          current += step;
-          if (current >= target) {
-            counter.textContent = target;
-            clearInterval(interval);
-          } else {
-            counter.textContent = current;
-          }
-        }, 30);
-        observer.unobserve(counter); // Disattiva dopo il primo avvio
-      }
-    });
-  }, { threshold: 0.6 });
-
-  const counterElement = document.getElementById('pdf-count');
-  if (counterElement) {
-    observer.observe(counterElement);
-  }
-});
-</script>
-
 <h2>📘 <span id="typed"></span></h2>
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
@@ -142,6 +112,36 @@ raccolto **per anno e per materia**.
   display: block;
 }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const counter = entry.target;
+        const target = +counter.dataset.target;
+        let current = 0;
+        const step = Math.ceil(target / 40); // Velocità della conta
+        const interval = setInterval(() => {
+          current += step;
+          if (current >= target) {
+            counter.textContent = target;
+            clearInterval(interval);
+          } else {
+            counter.textContent = current;
+          }
+        }, 30);
+        observer.unobserve(counter); // Disattiva dopo il primo avvio
+      }
+    });
+  }, { threshold: 0.6 });
+
+  const counterElement = document.getElementById('pdf-count');
+  if (counterElement) {
+    observer.observe(counterElement);
+  }
+});
+</script>
 
 ---
 🔒 Tutto il materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
