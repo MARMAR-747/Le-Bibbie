@@ -7,8 +7,9 @@ body, .site-nav, .site-header, .site-footer, .main-content{
 .theme-button {
   background: none;
   border: none;
+  font-size: 1.5rem;
   cursor: pointer;
-  font-size: 1.2em;
   margin-left: auto;
-  padding: 0.5em;
+  padding: 0.5rem;
+  color: var(--body-text-color);
 }
