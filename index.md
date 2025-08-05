@@ -115,43 +115,24 @@ raccolto **per anno e per materia**.
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  const counters = document.querySelectorAll('.counter');
+  const counter = document.getElementById('pdf-count');
+  const target = parseInt(counter.dataset.target);
+  let count = 0;
 
-  if (counters.length === 0) {
-    console.warn("Nessun contatore trovato!");
-    return;
-  }
+  const step = 1; // Incrementa di 1
+  const delay = 150; // ms tra ogni incremento
 
-  const animateCount = (el) => {
-    const target = parseInt(el.getAttribute('data-target'));
-    if (isNaN(target)) return;
-
-    let count = 0;
-    const step = Math.max(1, Math.ceil(target / 40)); // Conta di 1 alla volta
-    const update = () => {
-      count += step;
-      if (count >= target) {
-        el.textContent = target;
-      } else {
-        el.textContent = count;
-        requestAnimationFrame(update);
-      }
-    };
-    requestAnimationFrame(update);
+  const update = () => {
+    count += step;
+    if (count >= target) {
+      counter.textContent = target;
+    } else {
+      counter.textContent = count;
+      setTimeout(update, delay);
+    }
   };
 
-  const observer = new IntersectionObserver((entries, obs) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        animateCount(entry.target);
-        obs.unobserve(entry.target);
-      }
-    });
-  }, { threshold: 0.5 });
-
-  counters.forEach(counter => {
-    observer.observe(counter);
-  });
+  update(); // Avvia il conteggio subito
 });
 </script>
 
