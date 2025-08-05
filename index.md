@@ -24,6 +24,36 @@ nav_order: 1
   });
 </script>
 
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const counter = entry.target;
+        const target = +counter.dataset.target;
+        let current = 0;
+        const step = Math.ceil(target / 40); // Velocità della conta
+        const interval = setInterval(() => {
+          current += step;
+          if (current >= target) {
+            counter.textContent = target;
+            clearInterval(interval);
+          } else {
+            counter.textContent = current;
+          }
+        }, 30);
+        observer.unobserve(counter); // Disattiva dopo il primo avvio
+      }
+    });
+  }, { threshold: 0.6 });
+
+  const counterElement = document.getElementById('pdf-count');
+  if (counterElement) {
+    observer.observe(counterElement);
+  }
+});
+</script>
+
 <h2>📘 <span id="typed"></span></h2>
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
@@ -80,7 +110,7 @@ raccolto **per anno e per materia**.
 
 <div class="counter-container">
   <div class="counter-box">
-    <span id="pdf-count" class="counter">7</span>
+    <span id="pdf-count" class="counter" data-target="7">0</span>
     <p>📚 PDF disponibili</p>
   </div>
 </div>
