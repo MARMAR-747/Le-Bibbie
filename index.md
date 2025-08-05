@@ -4,6 +4,20 @@ title: Home
 nav_order: 1
 ---
 
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('theme-toggle');
+  if (!btn) return;
+  btn.addEventListener('click', () => {
+    const current = jtd.getTheme();
+    const next = current === 'dark' ? 'light' : 'dark';
+    jtd.setTheme(next);
+    localStorage.setItem('theme', next);
+    btn.textContent = next === 'dark' ? '☀️' : '🌙';
+  });
+});
+</script>
+
 <h2>📘 <span id="typed"></span></h2>
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
