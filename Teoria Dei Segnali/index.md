@@ -10,13 +10,12 @@ Teoria dei Segnali è, per antonomasia, la materia scoglio di Ingegneria Informa
 
 ## Overview:
 
-| Tema               | Contenuto                                                                 |
 |--------------------|---------------------------------------------------------------------------|
-| Modalità esame     | Scritto, con rollover di Q&A alla lavagna oppure MatLab                  |
-| Difficoltà         | 🔺 Alta (richiede studio teorico e pratico)                             |
-| Cosa studiare      | Trasformate, campionamento, FFT, modulazioni                            |
-| Domande frequenti  | *Cos'è il Teorema di Nyquist…*                                           |
-| Consiglio           | Inizia dallo schemino template, poi leggi le dispense reali              |
+| **Modalità esame**     | Scritto costituito da un esercizio a scelta casuale da un pool di esercizi predefinito (Non necessario per accedere all'orale, ma limita il voto massimo a 24 qualora dovesse andare male). Orale costituito generalmente da due domande (Teorema + Teorema o Teorema + Esercizio)                  |
+| **Difficoltà**         | 🔺 Alta                            |
+| **Cosa studiare**      | Trasformate, campionamento, FFT, modulazioni                            |
+| **Domande frequenti**  | *Cos'è il Teorema di Nyquist…*                                           |
+| **Tips**           | Inizia dallo schemino template, poi leggi le dispense reali              |
 
 ## Materiale disponibile:
 
