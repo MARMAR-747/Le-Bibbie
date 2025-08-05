@@ -3,3 +3,13 @@
 body, .site-nav, .site-header, .site-footer, .main-content{
   font-family: 'Mozilla Text', sans-serif !important;
 }
+
+.theme-button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-left: auto;
+  padding: 0.5rem;
+  color: var(--body-text-color);
+}
