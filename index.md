@@ -22,8 +22,26 @@ nav_order: 1
   });
 </script>
 
-<!-- CANVAS ANIMATO -->
-<canvas id="background-canvas" style="position: fixed; top: 0; left: 0; z-index: -1; width: 100vw; height: 100vh;"></canvas>
+<!-- CANVAS DI SFONDO -->
+<style>
+  #background-canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 0; /* dietro al contenuto */
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none; /* disattiva clic sul canvas */
+  }
+
+  .page-content {
+    position: relative;
+    z-index: 1; /* sopra al canvas */
+    background-color: transparent;
+  }
+</style>
+
+<canvas id="background-canvas"></canvas>
 
 <script>
 const canvas = document.getElementById('background-canvas');
