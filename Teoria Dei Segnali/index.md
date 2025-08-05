@@ -66,7 +66,7 @@ nav_exclude: true
 
 ## Materiale disponibile:
 
-![Anteprima Blocco Teoremi](Teoria Dei Segnali/assets/images/Copertina_BTE.png){:height="150px"}
+![Anteprima Blocco Teoremi](Teoria Dei Segnali/assets/images/Copertina BTE.png){:height="150px"}
 
 <table>
   <thead>
