@@ -24,9 +24,6 @@ Tutti i materiali presenti in questo sito (dispense, eserciziari, appunti e riso
 
 Pur prestando la massima attenzione all’accuratezza degli appunti, **non garantisco l’assenza di errori**. I materiali **non sostituiscono testi ufficiali o lezioni universitarie**, ma vogliono essere un supporto allo studio.
 
-Per segnalazioni o correzioni:
-📧 [marcomarino.ci@gmail.com](mailto:marcomarino.ci@gmail.com)
-
 ---
 🔒 Tutto il materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
