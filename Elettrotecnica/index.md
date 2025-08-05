@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Elettrotecnica
 nav_exclude: true
 ---
