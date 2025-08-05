@@ -64,7 +64,9 @@ nav_exclude: true
   </tr>
 </table>
 
-## Materiale disponibile ![Anteprima Blocco Teoremi](/assets/images/Copertina_BTE.png){:height="150px"}:
+## Materiale disponibile:
+
+![Anteprima Blocco Teoremi](/assets/images/Copertina_BTE.png){:height="150px"}
 
 <table>
   <thead>
