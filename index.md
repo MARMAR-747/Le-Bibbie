@@ -58,20 +58,10 @@ raccolto **per anno e per materia**.
 - [Reti di calcolatori] (9 CFU)
 - [Elettronica](Elettronica/) (9 CFU)
 
----
-🔒 Tutto il materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
-🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
-
-## 📊 Statistiche del sito
-
 <div class="counter-container">
   <div class="counter-box">
     <span id="pdf-count">0</span>
     <p>📚 PDF disponibili</p>
-  </div>
-  <div class="counter-box">
-    <span id="visitor-count" data-id="034d69c8-e18d-474d-a527-c0416749534b">0</span>
-    <p>👁️ Visitatori unici</p>
   </div>
 </div>
 
@@ -86,32 +76,6 @@ raccolto **per anno e per materia**.
 .counter-box p { margin: 0.5rem 0 0; }
 .counter { font-size: 2.5rem; font-weight: bold; color: #1a73e8; display: block; }
 </style>
-
-<script>
-// 1. Contatore PDF via GitHub API
-(async function(){
-  const folders = ["Teoria%20Dei%20Segnali", "Reti%20di%20calcolatori", "Elettrotecnica", "Elettronica"];
-  const repo = "MARMAR-747/Bibbie";
-  let total = 0;
-  for(let folder of folders){
-    const res = await fetch(`https://api.github.com/repos/${repo}/contents/${folder}`);
-    if(res.ok){
-      const list = await res.json();
-      total += list.filter(f => f.name.toLowerCase().endsWith(".pdf")).length;
-    }
-  }
-  document.getElementById("pdf-count").innerText = total;
-})();
-</script>
-
-<script src="https://counter.dev/script.js" async data-id="034d69c8-e18d-474d-a527-c0416749534b"></script>
-<script>
-// 2. Aggiorna contatore visitatori da Counter.dev
-window.addEventListener('DOMContentLoaded', () => {
-  const el = document.getElementById("visitor-count");
-  const id = el.getAttribute("data-id");
-  fetch(`https://counter.dev/api/stat/${id}`)
-    .then(res => res.json())
-    .then(json => { el.innerText = json.total; });
-});
-</script>
+---
+🔒 Tutto il materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
