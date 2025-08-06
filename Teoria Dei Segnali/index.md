@@ -67,7 +67,10 @@ nav_exclude: true
 
 ## Materiale disponibile:
 
-<img src="{{ '/assets/images/CopertinaBTE.png' | relative_url }}" alt="Copertina Blocco Teoremi" width="50">
+<img src="{{ '/assets/images/CopertinaBTE.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaBUE.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaBTELE.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaESER.png' | relative_url }}" width="80">
 
 <table>
   <thead>
