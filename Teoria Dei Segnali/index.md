@@ -65,7 +65,9 @@ nav_exclude: true
   </tr>
 </table>
 
-## Materiale disponibile: <img src="{{ '/assets/images/CopertinaBTE.png' | relative_url }}" alt="Copertina Blocco Teoremi" width="50">
+## Materiale disponibile:
+
+<img src="{{ '/assets/images/CopertinaBTE.png' | relative_url }}" alt="Copertina Blocco Teoremi" width="50">
 
 <table>
   <thead>
