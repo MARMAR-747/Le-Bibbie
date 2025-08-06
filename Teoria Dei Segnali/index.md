@@ -43,9 +43,9 @@ nav_exclude: true
   <tr>
     <td><strong>Modalità d'esame</strong></td>
     <td>
-      Lo scritto è costituito da un esercizio scelto casualmente da una pila di fogli presente alla cattedra (non è possibile scegliere il primo foglio in alto). Il superamento dello scritto non è necessario per accedere all'orale, ma limita il voto massimo a 24 qualora dovesse andare male. 
+      Lo <strong>scritto</strong> è costituito da un esercizio scelto casualmente da una pila di fogli presente alla cattedra (non è possibile scegliere il primo foglio in alto). Il superamento dello scritto non è necessario per accedere all'orale, ma limita il voto massimo a 24 qualora dovesse andare male. 
       <br><br>
-      L'orale è costituito solitamente da due domande (Teorema + Teorema o Teorema + Esercizio), tuttavia potrebbe essere richiesto anche un solo teorema o un solo esercizio qualora lo scritto fosse andato bene e/o Garbo fosse di buon umore.
+      L'<strong>orale</strong> è costituito solitamente da due domande (Teorema + Teorema o Teorema + Esercizio), tuttavia potrebbe essere richiesto anche un solo teorema o un solo esercizio qualora lo scritto fosse andato bene e/o Garbo fosse di buon umore.
     </td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ nav_exclude: true
 <table>
   <thead>
     <tr>
-      <th style="width: 59%; text-align: center;">Titolo</th>
+      <th style="width: 69%; text-align: center;">Titolo</th>
       <th style="width: 2%; text-align: center;">Tipologia</th>
       <th style="width: 2%; text-align: center;">Pagine</th>
       <th style="width: 2%; text-align: center;">Status</th>
