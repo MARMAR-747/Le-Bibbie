@@ -27,5 +27,3 @@ nav_order: 2
 # 👱🏻💻 Chi sono
 ---
 
-<img src="{{ '/assets/images/CopertinaBTE.png' | relative_url }}" alt="Copertina Blocco Teoremi" width="200">
-
