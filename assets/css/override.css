@@ -13,8 +13,3 @@ body, .site-nav, .site-header, .site-footer, .main-content{
   padding: 0.5rem;
   color: var(--body-text-color);
 }
-
-/* Aumenta dimensione del testo nella navigation */
-.nav-list .nav-list-item .nav-list-link {
-  font-size: 10px; /* Cambia il valore a piacere */
-}
