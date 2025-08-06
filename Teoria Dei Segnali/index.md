@@ -27,8 +27,6 @@ nav_exclude: true
 # 📘 Teoria dei Segnali  
 ---
 
-<img src="/assets/images/CopertinaBTE.png" alt="Anteprima Blocco Teoremi Enhanced" width="200">
-
 ## Overview:
 
 <table>
@@ -67,7 +65,7 @@ nav_exclude: true
   </tr>
 </table>
 
-## Materiale disponibile:
+## Materiale disponibile: <img src="{{ '/assets/images/CopertinaBTE.png' | relative_url }}" alt="Copertina Blocco Teoremi" width="50">
 
 <table>
   <thead>
