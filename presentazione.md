@@ -26,3 +26,5 @@ nav_order: 2
 
 # 👱🏻💻 Chi sono
 ---
+
+<img src="/assets/images/CopertinaBTE.png" alt="Anteprima Blocco Teoremi Enhanced" width="200">
