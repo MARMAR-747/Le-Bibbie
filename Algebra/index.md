@@ -73,20 +73,21 @@ Materiale disponibile:
 🔒 Questo materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
 
-{% assign ordine = site.materie_order %}
-{% assign idx = page.order_index | plus: 0 %}
+{% assign ordine = "Algebra,Teoria Dei Segnali,Elettrotecnica,Elettronica" | split: "," %}
+{% assign current = page.title %}
+{% assign idx = ordine | index_of: current %}
 
 <div class="navigation-buttons" style="margin-top: 3rem; display: flex; justify-content: space-between; font-weight: bold;">
   {% if idx > 0 %}
     {% assign precedente = ordine[idx | minus: 1] %}
-    <a href="/{{ precedente | replace: ' ', '%20' }}/">⟵ {{ precedente }}</a>
+    <a href="/{{ precedente | uri_escape }}/">⟵ {{ precedente }}</a>
   {% else %}
     <span></span>
   {% endif %}
 
   {% if idx < ordine.size | minus: 1 %}
     {% assign successiva = ordine[idx | plus: 1] %}
-    <a href="/{{ successiva | replace: ' ', '%20' }}/">{{ successiva }} ⟶</a>
+    <a href="/{{ successiva | uri_escape }}/">{{ successiva }} ⟶</a>
   {% else %}
     <span></span>
   {% endif %}
