@@ -2,7 +2,7 @@
 layout: default
 title: Teoria Dei Segnali
 nav_exclude: true
-permalink: /Teoria Dei Segnali/
+permalink: /Teoria%20Dei%20Segnali/
 order_index: 1
 ---
 
