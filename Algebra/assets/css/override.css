@@ -18,3 +18,14 @@ body, .site-nav, .site-header, .site-footer, .main-content{
 .nav-list .nav-list-item .nav-list-link {
   font-size: 1.05rem; /* Cambia il valore a piacere */
 }
+
+.navigation-buttons a {
+  padding: 0.5rem 1rem;
+  background-color: #eee;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.navigation-buttons a:hover {
+  background-color: #ddd;
+}
+
