@@ -25,8 +25,8 @@ body, .site-nav, .site-header, .site-footer, .main-content{
   justify-content: space-between;
   margin-top: 3rem;
   padding: 1rem 0;
-  gap: 1rem;
 }
+
 .nav-button {
   padding: 0.75rem 1.5rem;
   background-color: #007acc;
@@ -35,7 +35,10 @@ body, .site-nav, .site-header, .site-footer, .main-content{
   border-radius: 8px;
   font-weight: bold;
   transition: background-color 0.2s;
+  min-width: 140px;
+  text-align: center;
 }
+
 .nav-button:hover {
   background-color: #005fa3;
 }
