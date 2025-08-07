@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 
 <div class="nav-buttons">
-  <a href="/Bibbie/Elettrotecnica/" class="nav-button left">⬅️ Teoria Dei Segnali</a>
+  <a href="/Bibbie/Elettrotecnica/" class="nav-button left">⬅️ Elettrotecnica</a>
 </div>
 
 <br>
