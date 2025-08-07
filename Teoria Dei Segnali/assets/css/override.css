@@ -23,8 +23,10 @@ body, .site-nav, .site-header, .site-footer, .main-content{
 .nav-buttons {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   margin-top: 3rem;
   padding: 1rem 0;
+  width: 100%;
 }
 
 .nav-button {
@@ -35,11 +37,19 @@ body, .site-nav, .site-header, .site-footer, .main-content{
   border-radius: 8px;
   font-weight: bold;
   transition: background-color 0.2s;
-  min-width: 140px;
   text-align: center;
+  display: inline-block;
 }
 
 .nav-button:hover {
   background-color: #005fa3;
+}
+
+.nav-button.left {
+  margin-right: auto;
+}
+
+.nav-button.right {
+  margin-left: auto;
 }
 </style>
