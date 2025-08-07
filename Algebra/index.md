@@ -4,6 +4,10 @@ title: Algebra
 nav_exclude: true
 ---
 
+<div class="nav-buttons">
+  <a href="/Bibbie/Teoria Dei Segnali/" class="nav-button">➡️ Teoria dei Segnali</a>
+</div>
+
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const btn = document.getElementById('theme-toggle');
@@ -70,7 +74,3 @@ Materiale disponibile:
 ---
 🔒 Questo materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
-
-<div class="nav-buttons">
-  <a href="/Bibbie/Teoria Dei Segnali/" class="nav-button">➡️ Teoria dei Segnali</a>
-</div>
