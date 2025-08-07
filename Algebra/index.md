@@ -8,6 +8,8 @@ nav_exclude: true
   <a href="/Bibbie/Teoria Dei Segnali/" class="nav-button">➡️ Teoria dei Segnali</a>
 </div>
 
+<br>
+
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const btn = document.getElementById('theme-toggle');
