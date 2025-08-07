@@ -23,7 +23,7 @@ body, .site-nav, .site-header, .site-footer, .main-content{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 3rem;
+  margin-top: 0;
   padding: 1rem 0;
   width: 100%;
 }
