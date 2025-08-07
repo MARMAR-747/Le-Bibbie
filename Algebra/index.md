@@ -76,7 +76,7 @@ Materiale disponibile:
 {% assign ordine = site.materie_order %}
 {% assign idx = page.order_index | plus: 0 %}
 
-<div style="margin-top: 3rem; display: flex; justify-content: space-between; font-weight: bold;">
+<div class="navigation-buttons" style="margin-top: 3rem; display: flex; justify-content: space-between; font-weight: bold;">
   {% if idx > 0 %}
     {% assign precedente = ordine[idx | minus: 1] %}
     <a href="/{{ precedente | replace: ' ', '%20' }}/">⟵ {{ precedente }}</a>
