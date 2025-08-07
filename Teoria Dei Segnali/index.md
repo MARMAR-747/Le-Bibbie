@@ -9,6 +9,8 @@ nav_exclude: true
   <a href="/Bibbie/Elettrotecnica/" class="nav-button">➡️ Elettrotecnica</a>
 </div>
 
+<br>
+
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const btn = document.getElementById('theme-toggle');
