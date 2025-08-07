@@ -5,8 +5,8 @@ nav_exclude: true
 ---
 
 <div class="nav-buttons">
-  <a href="/Bibbie/Teoria Dei Segnali/" class="nav-button">⬅️ Teoria Dei Segnali</a>
-  <a href="/Bibbie/Elettronica/" class="nav-button">➡️ Elettronica</a>
+  <a href="/Bibbie/Teoria Dei Segnali/" class="nav-button left">⬅️ Teoria Dei Segnali</a>
+  <a href="/Bibbie/Elettronica/" class="nav-button right">➡️ Elettronica</a>
 </div>
 
 <br>
