@@ -4,6 +4,13 @@ title: Elettrotecnica
 nav_exclude: true
 ---
 
+<div class="nav-buttons">
+  <a href="/Bibbie/Teoria Dei Segnali/" class="nav-button">⬅️ Teoria Dei Segnali</a>
+  <a href="/Bibbie/Elettronica/" class="nav-button">➡️ Elettronica</a>
+</div>
+
+<br>
+
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const btn = document.getElementById('theme-toggle');
