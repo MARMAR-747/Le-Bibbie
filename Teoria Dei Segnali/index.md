@@ -2,9 +2,12 @@
 layout: default
 title: Teoria Dei Segnali
 nav_exclude: true
-permalink: /Teoria%20Dei%20Segnali/
-order_index: 1
 ---
+
+<div class="nav-buttons">
+  <a href="/Bibbie/Algebra/" class="nav-button">⬅️ Algebra</a>
+  <a href="/Bibbie/Elettrotecnica/" class="nav-button">➡️ Elettrotecnica</a>
+</div>
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
