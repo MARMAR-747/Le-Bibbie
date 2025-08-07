@@ -16,5 +16,5 @@ body, .site-nav, .site-header, .site-footer, .main-content{
 
 /* Aumenta dimensione del testo nella navigation */
 .nav-list .nav-list-item .nav-list-link {
-  font-size: 10px; /* Cambia il valore a piacere */
+  font-size: 1.03rem; /* Cambia il valore a piacere */
 }
