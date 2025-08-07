@@ -19,7 +19,6 @@ body, .site-nav, .site-header, .site-footer, .main-content{
   font-size: 1.05rem; /* Cambia il valore a piacere */
 }
 
-<style>
 .nav-buttons {
   display: flex;
   justify-content: space-between;
@@ -52,4 +51,3 @@ body, .site-nav, .site-header, .site-footer, .main-content{
 .nav-button.right {
   margin-left: auto;
 }
-</style>
