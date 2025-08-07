@@ -2,6 +2,8 @@
 layout: default
 title: Teoria Dei Segnali
 nav_exclude: true
+permalink: /Teoria Dei Segnali/
+order_index: 1
 ---
 
 <script>
@@ -132,3 +134,22 @@ nav_exclude: true
 ---
 🔒 Questo materiale è rilasciato sotto licenza [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 🔗 Ultimo aggiornamento: {{ site.time | date: "%d/%m/%Y" }}
+
+{% assign ordine = site.materie_order %}
+{% assign idx = page.order_index | plus: 0 %}
+
+<div style="margin-top: 3rem; display: flex; justify-content: space-between; font-weight: bold;">
+  {% if idx > 0 %}
+    {% assign precedente = ordine[idx | minus: 1] %}
+    <a href="/{{ precedente | replace: ' ', '%20' }}/">⟵ {{ precedente }}</a>
+  {% else %}
+    <span></span>
+  {% endif %}
+
+  {% if idx < ordine.size | minus: 1 %}
+    {% assign successiva = ordine[idx | plus: 1] %}
+    <a href="/{{ successiva | replace: ' ', '%20' }}/">{{ successiva }} ⟶</a>
+  {% else %}
+    <span></span>
+  {% endif %}
+</div>
