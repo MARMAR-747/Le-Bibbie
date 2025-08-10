@@ -32,7 +32,44 @@ nav_exclude: true
 
 # 📘 Algebra
 
-Materiale disponibile:
+## Overview:
+
+<table>
+  <tr>
+    <td><strong>Descrizione</strong></td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Modalità d'esame</strong></td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Difficoltà</strong></td>
+    <td>🟢 Medio-Bassa 💀💀⚪⚪⚪</td>
+  </tr>
+  <tr>
+    <td><strong>Domande frequenti</strong></td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tips</strong></td>
+    <td>
+      
+    </td>
+  </tr>
+</table>
+
+## Materiale disponibile:
+
+<img src="{{ '/assets/images/CopertinaRAD.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaODD.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaSDD.png' | relative_url }}" width="80">
 
 <table>
   <thead>
