@@ -70,13 +70,20 @@ nav_exclude: true
     <td><strong>Tips</strong></td>
     <td>Leggere le dispense del professore Garbo e consultare parallelamente il <strong>BLOCCO TEOREMI ENHANCED</strong> e il <strong>BLOCCO UTILITIES ENHANCED</strong>. Si consiglia di svolgere le esercitazioni del professore Mangione parallelamente allo studio teorico, per fissare bene i concetti studiati.</td>
   </tr>
+  <tr>
+    <td><strong>Menzioni speciali</strong></td>
+    <td>Si ringraziano in modo speciale gli altri tre eroi che hanno costituito il gruppo del progetto di Ingegneria Del Software:
+    - Francesco Fausto Franchina (anche detto Cicerone), signore dei flussi e dei DB.
+    - Diego Lo Voi (anche detto Diegheone), signore assoluto dei Mock-up e del supporto psicologico avanzato.
+    - Giovanni Dolcemascolo (anche detto Giova), colui che mi ha assistito (non senza crolli nervosi e con imprecazioni di livello astrale) nel redigere i famigerati Sequence/Object Diagrams.  </td>
+  </tr>
 </table>
 
 ## Materiale disponibile:
 
-<img src="{{ '/assets/images/RAD.png' | relative_url }}" width="80">
-<img src="{{ '/assets/images/ODD.png' | relative_url }}" width="80">
-<img src="{{ '/assets/images/SDD.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaRAD.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaODD.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaSDD.png' | relative_url }}" width="80">
 
 <table>
   <thead>
