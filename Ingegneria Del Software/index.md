@@ -38,6 +38,13 @@ nav_exclude: true
 
 <table>
   <tr>
+    <td><strong>Menzioni speciali</strong></td>
+    <td>Si ringraziano in modo speciale gli altri tre eroi che hanno costituito il gruppo del progetto di Ingegneria Del Software:<br>
+    - <strong>Francesco Fausto Franchina</strong> (anche detto <strong>Cicerone</strong>), signore dei flussi e dei DB.<br>
+    - <strong>Diego Lo Voi</strong> (anche detto <strong>Diegheone</strong>), signore assoluto dei Mock-up e del supporto psicologico avanzato.<br>
+    - <strong>Giovanni Dolcemascolo</strong> (anche detto <strong>Giova</strong>), colui che mi ha assistito (non senza crolli nervosi e con imprecazioni di livello astrale) nel redigere i famigerati Sequence/Object Diagrams.</td>
+  </tr>
+  <tr>
     <td><strong>Descrizione</strong></td>
     <td>
       
@@ -66,13 +73,6 @@ nav_exclude: true
     <td>
       
     </td>
-  </tr>
-  <tr>
-    <td><strong>Menzioni speciali</strong></td>
-    <td>Si ringraziano in modo speciale gli altri tre eroi che hanno costituito il gruppo del progetto di Ingegneria Del Software:<br>
-    - Francesco Fausto Franchina (anche detto Cicerone), signore dei flussi e dei DB.<br>
-    - Diego Lo Voi (anche detto Diegheone), signore assoluto dei Mock-up e del supporto psicologico avanzato.<br>
-    - Giovanni Dolcemascolo (anche detto Giova), colui che mi ha assistito (non senza crolli nervosi e con imprecazioni di livello astrale) nel redigere i famigerati Sequence/Object Diagrams.</td>
   </tr>
 </table>
 
