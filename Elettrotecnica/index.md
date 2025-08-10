@@ -33,13 +33,48 @@ nav_exclude: true
 
 # 📘 Elettrotecnica
 ---
-## Descrizione:
-Elettrotecnica, nonostante valga solo 6 CFU, presenta un programma tanto corposo quanto accessibile. Fortunatamente, il professor Imburgia si distingue per la sua chiarezza espositiva ed è uno dei pochi docenti che propone esami realmente coerenti con quanto svolto in aula. Per lo studio della teoria, è consigliato il file “LA BIBBIA DI ELETTROTECNICA”, che prende spunto direttamente dagli appunti scritti in classe dal professore offrendo una panoramica accurata di tutti gli argomenti trattati (l’unico difetto di quest'ultimo è infatti la grafia, a volte poco leggibile). Per quanto riguarda gli esercizi, il riferimento principale è il file “LE RIVELAZIONI DI ELETTROTECNICA”, che contiene:
-- Le soluzioni dettagliate degli esercizi dell’eserciziario ufficiale del professore.
-- Una raccolta di esercizi svolti in aula.
-- Vecchi appelli d’esame.
+
+## Overview:
+
+<table>
+  <tr>
+    <td><strong>Descrizione</strong></td>
+    <td>
+      Elettrotecnica, nonostante valga solo 6 CFU, presenta un programma tanto corposo quanto accessibile. Fortunatamente, il professor Imburgia si distingue per        la sua chiarezza espositiva ed è uno dei pochi docenti che propone esami realmente coerenti con quanto svolto in aula. Per lo studio della teoria, è               consigliato il file “LA BIBBIA DI ELETTROTECNICA”, che prende spunto direttamente dagli appunti scritti in classe dal professore offrendo una panoramica           accurata di tutti gli argomenti trattati (l’unico difetto di quest'ultimo è infatti la grafia, a volte poco leggibile). Per quanto riguarda gli esercizi, il       riferimento principale è il file “LE RIVELAZIONI DI ELETTROTECNICA”, che contiene: <br>
+      - Le soluzioni dettagliate degli esercizi dell’eserciziario ufficiale del professore. <br>
+      - Una raccolta di esercizi svolti in aula. <br>
+      - Vecchi appelli d’esame.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Modalità d'esame</strong></td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Difficoltà</strong></td>
+    <td>🔸 Media 💀💀💀⚪⚪</td>
+  </tr>
+  <tr>
+    <td><strong>Domande frequenti</strong></td>
+    <td>
+      
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tips</strong></td>
+    <td>
+      
+    </td>
+  </tr>
+</table>
 
 ## Materiale disponibile:
+
+<img src="{{ '/assets/images/CopertinaRAD.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaODD.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaSDD.png' | relative_url }}" width="80">
 
 <table>
   <thead>
