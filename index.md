@@ -80,7 +80,7 @@ Con il tempo, però, mi sono reso conto che **ore e ore di lavoro** non potevano
 **Chiariamoci**: non considero i miei appunti "migliori" rispetto a quelli ufficiali.
 Credo però che, nell’eccessivo formalismo accademico, si perda talvolta il contatto concreto con gli studenti.
 
-### 📖 Perché “Le Bibbie”? <br>
+### 📖 Perché “Le Bibbie”?
 Perché anche le materie da **6 CFU**, all’apparenza innocue, possono nascondere **programmi vastissimi**. Il nome è ironico, ma anche 
 simbolico: questi appunti sono diventati per me — e spero anche per voi — **una guida completa e affidabile**.
 
@@ -103,10 +103,11 @@ raccolto **per anno e per materia**.
 
 - [Reti di calcolatori] (9 CFU)
 - [Elettronica](Elettronica/) (9 CFU)
+- [Ingegneria Del Software](Ingegneria Del Software/) (9 CFU)
 
 <div class="counter-container">
   <div class="counter-box">
-    <span id="pdf-count" class="counter" data-target="7">0</span>
+    <span id="pdf-count" class="counter" data-target="10">0</span>
     <p>📚 PDF disponibili</p>
   </div>
 </div>
