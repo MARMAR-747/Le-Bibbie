@@ -50,14 +50,14 @@ nav_exclude: true
   <tr>
     <td><strong>Modalità d'esame</strong></td>
     <td>
-      Lo <strong>scritto</strong> è costituito da un esercizio scelto casualmente da una pila di fogli presente alla cattedra (non è possibile scegliere il primo foglio in alto). Il superamento dello scritto non è necessario per accedere all'orale, ma limita il voto massimo a 24 qualora dovesse andare male. 
+      Il <strong>progetto</strong> consta di tre corposi file da redigere: il RAD (Requirements Analysis Document), l'ODD (Object Design Document) e l'SDD (System Design Document).  
       <br><br>
-      L'<strong>orale</strong> è costituito solitamente da due domande (Teorema + Teorema o Teorema + Esercizio), tuttavia potrebbe essere richiesto anche un solo teorema o un solo esercizio qualora lo scritto fosse andato bene e/o Garbo fosse di buon umore.
+      L'<strong>orale</strong> consiste nella maggior parte dei casi in una discussione del progetto svolto (specialmente se svolto adeguatamente). E' possibile, talvolta, che la professoressa faccia qualche domanda di teoria (stando attenti a lezione potrete capire quali sono le domande più frequenti).
     </td>
   </tr>
   <tr>
     <td><strong>Difficoltà</strong></td>
-    <td>🔺 Alta 💀💀💀💀💀</td>
+    <td>🔺 Medio-Alta 💀💀💀💀⚪</td>
   </tr>
   <tr>
     <td><strong>Domande frequenti</strong></td>
@@ -74,10 +74,9 @@ nav_exclude: true
 
 ## Materiale disponibile:
 
-<img src="{{ '/assets/images/CopertinaBTE.png' | relative_url }}" width="80">
-<img src="{{ '/assets/images/CopertinaBUE.png' | relative_url }}" width="80">
-<img src="{{ '/assets/images/CopertinaBTELE.png' | relative_url }}" width="80">
-<img src="{{ '/assets/images/CopertinaESER.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/RAD.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/ODD.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/SDD.png' | relative_url }}" width="80">
 
 <table>
   <thead>
