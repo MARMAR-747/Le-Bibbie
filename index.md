@@ -103,6 +103,7 @@ raccolto **per anno e per materia**.
 
 - [Reti di calcolatori] (9 CFU)
 - [Elettronica](Elettronica/) (9 CFU)
+- [Controlli Automatici](Controlli Automatici/) (9 CFU)
 - [Ingegneria Del Software](Ingegneria Del Software/) (9 CFU)
 
 <div class="counter-container">
