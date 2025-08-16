@@ -39,6 +39,11 @@ Se vuoi supportare il progetto con una piccola donazione, puoi farlo qui:
   <div style="width: 1%; height: 100%; background-color: #28a745; border-radius: 10px;"></div>
 </div>
 
+<!-- Barra di progresso -->
+<div style="border: 1px solid #ccc; border-radius: 6px; width: 100%; max-width: 500px; height: 30px; margin-bottom: 10px; overflow: hidden;">
+  <div style="width: 1%; height: 100%; background-color: #28a745;"></div>
+</div>
+
 <!-- Testo dell'avanzamento -->
 <p style="font-size: 0.95rem; font-weight: bold;">💰 Totale raccolto: 0€ / 50€</p>
 
