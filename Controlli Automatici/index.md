@@ -6,7 +6,7 @@ nav_exclude: true
 
 <div class="nav-buttons">
   <a href="/Bibbie/Elettronica/" class="nav-button left">⬅️ Elettronica</a>
-  <a href="/Bibbie/Elettrotecnica/" class="nav-button right">➡️ Ingegneria Del Software</a>
+  <a href="/Bibbie/Ingegneria Del Software/" class="nav-button right">➡️ Ingegneria Del Software</a>
 </div>
 
 <br>
