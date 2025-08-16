@@ -88,28 +88,10 @@ nav_exclude: true
   <tbody>
     <tr>
       <td>
-        <a href="../Ingegneria Del Software/RAD.pdf" target="_blank">RAD</a>
+        <a href="../Controlli Automatici/Progetto_CA2315.pdf" target="_blank">Submarine: ROV</a>
       </td>
       <td style="text-align: center;">Progetto</td>
-      <td style="text-align: center;">193</td>
-      <td style="text-align: center;">✅</td>
-      <td style="text-align: center;">☆☆☆☆☆ (0)</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="../Ingegneria Del Software/ODD.pdf" target="_blank">ODD</a>
-      </td>
-      <td style="text-align: center;">Progetto</td>
-      <td style="text-align: center;">22</td>
-      <td style="text-align: center;">✅</td>
-      <td style="text-align: center;">☆☆☆☆☆ (0)</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="../Ingegneria Del Software/SDD.pdf" target="_blank">SDD</a>
-      </td>
-      <td style="text-align: center;">Progetto</td>
-      <td style="text-align: center;">33</td>
+      <td style="text-align: center;">36</td>
       <td style="text-align: center;">✅</td>
       <td style="text-align: center;">☆☆☆☆☆ (0)</td>
     </tr>
