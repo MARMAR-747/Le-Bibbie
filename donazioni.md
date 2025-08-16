@@ -35,11 +35,6 @@ Se vuoi supportare il progetto con una piccola donazione, puoi farlo qui:
 <h2>🎯 Obiettivo: 50€</h2>
 
 <!-- Barra di progresso -->
-<div style="border: 1px solid #ccc; border-radius: 10px; width: 100%; max-width: 500px; height: 30px; margin-bottom: 10px;">
-  <div style="width: 1%; height: 100%; background-color: #28a745; border-radius: 10px;"></div>
-</div>
-
-<!-- Barra di progresso -->
 <div style="border: 1px solid #ccc; border-radius: 6px; width: 100%; max-width: 500px; height: 30px; margin-bottom: 10px; overflow: hidden;">
   <div style="width: 1%; height: 100%; background-color: #28a745;"></div>
 </div>
