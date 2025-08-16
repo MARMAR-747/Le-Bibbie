@@ -5,8 +5,8 @@ nav_exclude: true
 ---
 
 <div class="nav-buttons">
-  <a href="/Bibbie/Elettronica/" class="nav-button left">⬅️ Elettronica</a>
-  <a href="/Bibbie/Elettrotecnica/" class="nav-button right">➡️ BHO</a>
+  <a href="/Bibbie/Controlli Automatici/" class="nav-button left">⬅️ Controlli Automatici</a>
+  <a href="/Bibbie/Controlli Automatici/" class="nav-button right">➡️ BHO</a>
 </div>
 
 <br>
