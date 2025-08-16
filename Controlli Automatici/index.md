@@ -71,9 +71,7 @@ nav_exclude: true
 
 ## Materiale disponibile:
 
-<img src="{{ '/assets/images/CopertinaRAD.png' | relative_url }}" width="80">
-<img src="{{ '/assets/images/CopertinaODD.png' | relative_url }}" width="80">
-<img src="{{ '/assets/images/CopertinaSDD.png' | relative_url }}" width="80">
+<img src="{{ '/assets/images/CopertinaCAUTO.png' | relative_url }}" width="80">
 
 <table>
   <thead>
